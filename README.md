@@ -36,11 +36,12 @@ screenshots/
 
 Example:
 
-![TicTacToe Home](screenshots/home.png)
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 14 00 59" src="https://github.com/user-attachments/assets/fe5124cc-8eb8-48d9-ba43-fe9fb4800f63" />
 
-![TicTacToe Gameplay](screenshots/gameplay.png)
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 14 01 08" src="https://github.com/user-attachments/assets/ece12f2c-909b-4ce6-afca-aced710142e0" />
 
-![TicTacToe Winner](screenshots/winner.png)
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 14 00 52" src="https://github.com/user-attachments/assets/289eb61f-df90-4f47-8ba3-bcd0d361fe28" />
+
 
 ## 🎯 Game Rules
 
