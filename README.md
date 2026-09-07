@@ -130,7 +130,6 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Anil Kumar Yadav**
 
 Anil Kumar Yadav iOS Developer | Swift | UIKit
 
@@ -142,6 +141,5 @@ LinkedIn: www.linkedin.com/in/anilyadavjnt
 Portfolio: https://portfolio-anilyadavjnt.vercel.app
 Email: anilyadavjnt@gmail.com
 
----
 
 
