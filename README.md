@@ -42,7 +42,6 @@ Example:
 
 <img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 14 00 52" src="https://github.com/user-attachments/assets/289eb61f-df90-4f47-8ba3-bcd0d361fe28" />
 
-
 ## 🎯 Game Rules
 
 1. Player X starts the game.
